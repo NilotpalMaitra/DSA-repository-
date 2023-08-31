@@ -1,4 +1,4 @@
-
+//implementation of circular queue
 #include <iostream>
 #define MAX_SIZE 5
 Using namespace std;
