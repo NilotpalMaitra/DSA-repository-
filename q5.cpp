@@ -1,3 +1,4 @@
+//dequeu and enqueue of array()
 #include <iostream>
 #define MAX_SIZE 5
 Using namespace std;
